@@ -50,6 +50,8 @@ flutter run
 ## ¿Cómo se usa?
 La aplicación SpeakUp está diseñada para que los usuarios puedan aprender idiomas de una forma dinámica, sencilla e interactiva. El usuario instala el apk, para posteriormente inicializar la app desde si celular en dispositivo android 13 o superior.
 
-Una vez iniciada la app, tendra que realizar un log in, se le enviara a una pantalla de escoger idioma para que este escoja el idioma que desee aprender y cuatro categorías donde el usuario escogera la que desee, respondera la trivia con las vidas y tiempo dado para poder regresar al menu, en caso de fallar por tiempo o errores haciendolo quedar sin vidas, podra volver a iniciar la trivia o irse al menu.
+Una vez iniciada la app, tendra que realizar un log in, se le enviara a una pantalla para elegir un idioma que desee aprender y cuatro categorías donde el usuario escogera la que desee(frutas, animales, colores y números).La trivia responderá con las vidas y el tiempo dado. 
+
+En caso de fallar por tiempo o errores (haciendolo quedar sin vidas), podra volver a iniciar la trivia o volver al menu.
 
 Así el usuario podra volver a escoger una y otra vez las demas categorias e idiomas, si el usuario desea salir de la aplicacion en el menu lateral izquierdo en el ultimo boton, podra cerrar la aplicación.
